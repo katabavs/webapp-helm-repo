@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  webapp-helm:
+  - apiVersion: v2
+    appVersion: 0.16.0
+    created: "2022-12-31T13:44:41.206355957+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 27c1a7724c327c31ae6380503f808ecfabb2723e68b9866f872b741acef8786b
+    name: webapp-helm
+    type: application
+    urls:
+    - https://katabavs.github.io/webapp-helm-repo/webapp-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-31T13:44:41.205916149+07:00"
